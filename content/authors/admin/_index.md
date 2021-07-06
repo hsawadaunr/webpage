@@ -1,39 +1,43 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Hiroshi Sawada
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Associate Professor of Physics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Nevada Reno
+  url: https://www.unr.edu/physics
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include experimental studies of high intensity laser-matter interaction, relativistic electron generation and the creation of high energy density matter.
+
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- High intensity, laser-matter interaction
+- Generation of relativistic electrons and their applications
+- Ultrafast high energy density physics with an x-ray free electron laser
+- Inertial Confinement Fusion
+- Diagnostics development for High Enegry density Plasma
+
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Mechanical Engineering
+    institution: University of Rochester
     year: 2008
+  - course: MS in Mechanical Engineering 
+    institution: University of Rochester
+    year: 2001
+  - course: BEng in Electrical Engineering 
+    institution: Kinki University, Japan
+    year: 2000
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,16 +49,21 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/hir0shisawada
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://scholar.google.com/citations?hl=en&user=NyLlvAIAAAAJ&view_op=list_works&sortby=pubdate
+- icon: orcid
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://orcid.org/0000-0002-7972-9894
+
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/
+  
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +79,9 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Prof. Hiroshi Sawada is an associate professor of physics at the University of Nevada Reno. His research interests include experimental investigation of high intensity, short-pulse laser-matter interaction, generation and characterization of laser-driven relativistic electrons,  ultrafast high energy density physics with an x-ray free electron laser, diagnostics development for high energy density plasma and inertial confinement fusion.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Using a sub-picosecond laser Leopard coupled with a pulsed power generator Zebra at the UNR's Zebra Pulsed Power Laboratory, he designs and carries out experimental studies of the creation of warm dense matter in magnetically driven cylindrical compression of a metal wire. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+The complete list of my publications can be found in <a href="https://scholar.google.com/citations?hl=en&user=NyLlvAIAAAAJ&view_op=list_works&sortby=pubdate" target="blank">Google scholar </a> and/or <a href=" https://orcid.org/0000-0002-7972-9894
+" target="blank"> Orcid </a> pages. 
