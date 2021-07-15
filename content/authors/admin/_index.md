@@ -85,3 +85,6 @@ Using a sub-picosecond laser Leopard coupled with a pulsed power generator Zebra
 
 The complete list of my publications can be found in <a href="https://scholar.google.com/citations?hl=en&user=NyLlvAIAAAAJ&view_op=list_works&sortby=pubdate" target="blank">Google scholar </a> and/or <a href=" https://orcid.org/0000-0002-7972-9894
 " target="blank"> Orcid </a> pages. 
+
+### Research opportunities in my group 
+A few positions for grad and undergrad students are available (as of July 2021).
