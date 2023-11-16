@@ -35,7 +35,18 @@ url_video: ""
 ---
 
 ## Student research projects 
-A senior thesis project usually takes at least a year. For UNR undergraduate and graduate students who are interested in working with me on high energy density physics, contact to hsawada at unr.edu or walk in my office.
+A senior thesis project usually takes at least a year. For UNR undergraduate and graduate students who are interested in working with me on high energy density physics using a high-intensity short-pulse laser, contact to hsawada at unr.edu or walk in my office.
+<hr>
+
+## L. Chen, Ph.D (2023)
+Characterization of short-pulse laser-produced fast electrons by 3D hybrid particle-in-cell modeling of angularly resolved bremsstrahlung
+
+<hr>
+
+
+## S. Buitron, BS (2023)
+Monte Carlo simulations of radiation shielding design for broadband x-ray radiography at Zebra Pulsed Power Laboratory
+
 <hr>
 
 
