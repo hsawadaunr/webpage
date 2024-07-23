@@ -38,11 +38,10 @@ url_video: ""
 A senior thesis project usually takes at least a year. For UNR undergraduate and graduate students who are interested in working with me on high energy density physics using a high-intensity short-pulse laser, contact to hsawada at unr.edu or walk in my office.
 <hr>
 
-## A. Colberg, B.S. (2024)
+## A. Colberg, B.S. (2024) - test
 Numerical simulations of Proton Radiography for High Energy Density Plasmas
 
 <hr>
-
 
 ## A. Santistevan, B.S. (2024)
 Hybrid Particle-In-Cell Simulations of Ti Kα Production for fast electron characterization
