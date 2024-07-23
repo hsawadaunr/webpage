@@ -54,7 +54,7 @@ Demonstration of 2D Monochromatic Kα X-ray Imaging for Measurements of High-Pow
 <hr>
 
 
-## C. Salinas, BS (2020)
+## C. Salinas, B.S. (2020)
 Monte Carlo modeling of short-pulse laserdriven broadband X-ray Radiography and a Medical X-ray Tube Generator
 
 <hr>
