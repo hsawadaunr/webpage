@@ -35,17 +35,39 @@ url_video: ""
 ---
 
 ## Student research projects 
-A senior thesis project usually takes at least a year. For UNR undergraduate and graduate students who are interested in working with me on high energy density physics, contact to hsawada at unr.edu or walk in my office.
+A senior thesis project usually takes at least a year. For UNR undergraduate and graduate students who are interested in working with me on high energy density physics using a high-intensity short-pulse laser, contact to hsawada at unr.edu or walk in my office.
+<hr>
+
+## A. Colberg, B.S. (2024)
+Numerical simulations of Proton Radiography for High Energy Density Plasmas
+
 <hr>
 
 
-## J. Trzaska, BS (2020)
+## A. Santistevan, B.S. (2024)
+Hybrid Particle-In-Cell Simulations of Ti Kα Production for fast electron characterization
+
+<hr>
+
+## L. Chen, Ph.D (2023)
+Characterization of short-pulse laser-produced fast electrons by 3D hybrid particle-in-cell modeling of angularly resolved bremsstrahlung
+
+<hr>
+
+
+## S. Buitron, B.S. (2023)
+Monte Carlo simulations of radiation shielding design for broadband x-ray radiography at Zebra Pulsed Power Laboratory
+
+<hr>
+
+
+## J. Trzaska, B.S. (2020)
 Demonstration of 2D Monochromatic Kα X-ray Imaging for Measurements of High-Power Femtosecond and X-ray Free Electron Lasers
 
 <hr>
 
 
-## C. Salinas, BS (2020)
+## C. Salinas, B.S. (2020)
 Monte Carlo modeling of short-pulse laserdriven broadband X-ray Radiography and a Medical X-ray Tube Generator
 
 <hr>
@@ -57,23 +79,23 @@ Characterizing Fast Electron Energy Distribution and divergence in Ultra-Intense
 
 
 
-## N. Sargent, BS (2019)
+## N. Sargent, B.S. (2019)
 Hybrid Particle-in-Cell Simulations of Fast ElectronGenerated Bremsstrahlung
 
 <hr>
 
-## B. Largent, MS (2017)
+## B. Largent, M.S. (2017)
 Numerical Investigation of Magnetically Driven Isentropic Compression of Solid Aluminum Cylinders with a Semi- Analytical Code
 
 <hr>
 
-## C. Peterson, BS (2015)
+## C. Peterson, B.S. (2015)
 Design of Laser Pulse Shaping for Direct Drive Inertial Confinement Fusion
 
 
 <hr>
 
-## B. Griffin, BS (2014)
+## B. Griffin, B.S. (2014)
 Investigation of energy partitioning from Leopard short-pulse laser interactions in mass limited targets
 
 <hr>
