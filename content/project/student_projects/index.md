@@ -43,12 +43,10 @@ Characterization of short-pulse laser-produced fast electrons by 3D hybrid parti
 
 <hr>
 
-
 ## S. Buitron, BS (2023)
 Monte Carlo simulations of radiation shielding design for broadband x-ray radiography at Zebra Pulsed Power Laboratory
 
 <hr>
-
 
 ## J. Trzaska, BS (2020)
 Demonstration of 2D Monochromatic Kα X-ray Imaging for Measurements of High-Power Femtosecond and X-ray Free Electron Lasers
