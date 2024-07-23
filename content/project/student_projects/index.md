@@ -66,23 +66,23 @@ Characterizing Fast Electron Energy Distribution and divergence in Ultra-Intense
 
 
 
-## N. Sargent, BS (2019)
+## N. Sargent, B.S. (2019)
 Hybrid Particle-in-Cell Simulations of Fast ElectronGenerated Bremsstrahlung
 
 <hr>
 
-## B. Largent, MS (2017)
+## B. Largent, M.S. (2017)
 Numerical Investigation of Magnetically Driven Isentropic Compression of Solid Aluminum Cylinders with a Semi- Analytical Code
 
 <hr>
 
-## C. Peterson, BS (2015)
+## C. Peterson, B.S. (2015)
 Design of Laser Pulse Shaping for Direct Drive Inertial Confinement Fusion
 
 
 <hr>
 
-## B. Griffin, BS (2014)
+## B. Griffin, B.S. (2014)
 Investigation of energy partitioning from Leopard short-pulse laser interactions in mass limited targets
 
 <hr>
