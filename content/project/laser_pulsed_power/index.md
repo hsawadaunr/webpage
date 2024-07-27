@@ -10,7 +10,7 @@ tags:
 
 date: "2021-07-06T00:00:00Z"
 
-weight: 2
+weight: 4
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 

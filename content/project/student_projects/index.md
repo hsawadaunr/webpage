@@ -1,12 +1,12 @@
 ---
-title: Student projects
+title: Student Research projects
 summary: List of student projects
 tags:
 - senior theses
 - Ph.D thesis
 - MS thesis
 
-date: "2021-07-04T00:00:00Z"
+date: "2024-07-27T00:00:00Z"
 
 weight: 5
 # Optional external URL for project (replaces project detail page).

@@ -10,7 +10,7 @@ tags:
 - ICF
 
 date: "2021-07-05T00:00:00Z"
-weight: 3
+weight: 2
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 

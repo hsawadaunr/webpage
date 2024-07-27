@@ -14,7 +14,7 @@ organizations:
   url: https://www.unr.edu/physics
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include experimental studies of high intensity laser-matter interaction, relativistic electron generation and the creation of high energy density matter.
+bio: My primary research interests are experimental studies of high intensity laser-matter interaction, the creation of warm and hot dense matter using laser-driven relativistic electrons and energetic ions, and inertial fusion energy.
 
 
 # Interests to show in About widget
