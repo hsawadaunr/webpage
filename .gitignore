@@ -1,6 +1,5 @@
 # IDEs
 .idea/
-
 # Hugo
 /resources/
 public/
@@ -11,3 +10,5 @@ node_modules/
 .Rdata
 .httr-oauth
 .DS_Store
+.Rapp.history
+.quarto
