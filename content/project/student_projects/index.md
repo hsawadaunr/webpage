@@ -35,7 +35,7 @@ url_video: ""
 ---
 
 ## Student research projects 
-A senior thesis project usually takes at least a year. For UNR undergraduate and graduate students who are interested in working with me on high energy density physics using a high-intensity short-pulse laser, contact to hsawada at unr.edu or walk in my office.
+A senior thesis project usually takes at least a year (two semesters). For UNR undergraduate and graduate students who are interested in working with me on projects in high energy density physics and inertial confinement fusion using a high-intensity short-pulse laser, contact to hsawada at unr.edu or walk in my office.
 <hr>
 
 

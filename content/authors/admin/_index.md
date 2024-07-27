@@ -47,22 +47,23 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/hir0shisawada
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?hl=en&user=NyLlvAIAAAAJ&view_op=list_works&sortby=pubdate
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0002-7972-9894
+- icon: linkedin
+  icon_pack: fab
+  link: www.linkedin.com/in/hiroshi-sawada-b8045729
+
 
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
 #- icon: linkedin
 #  icon_pack: fab
-#  link: https://www.linkedin.com/
+#  link: www.linkedin.com/in/hiroshi-sawada-b8045729
   
 
 # Link to a PDF of your resume/CV.
@@ -79,7 +80,7 @@ email: ""
 highlight_name: false
 ---
 
-Prof. Hiroshi Sawada is an associate professor of physics at the University of Nevada Reno. His research interests include experimental investigation of high intensity, short-pulse laser-matter interaction, generation and characterization of laser-driven relativistic electrons,  ultrafast high energy density physics with an x-ray free electron laser, diagnostics development for high energy density plasma and inertial confinement fusion.
+Prof. Hiroshi Sawada is an associate professor of physics at the University of Nevada Reno. His research interests include experimental investigation of high intensity, short-pulse laser-matter interaction, generation and characterization of laser-driven charged particlees (relativistic electrons and energetic ions), high energy density physics with an X-ray free electron laser, diagnostics development for high energy density plasmas and inertial fusion energy.
 
 Using a sub-picosecond laser Leopard coupled with a pulsed power generator Zebra at the UNR's Zebra Pulsed Power Laboratory, he designs and carries out experimental studies of the creation of warm dense matter in magnetically driven cylindrical compression of a metal wire. 
 
@@ -87,4 +88,4 @@ The complete list of my publications can be found in <a href="https://scholar.go
 " target="blank"> Orcid </a> pages. 
 
 ### Research opportunities in my group 
-A few positions for grad and undergrad students are available (as of July 2021).
+We welcome prospective students who are eager to learn high-energy-density physics and enjoy conducting experiments. The availability ofgraduate research assistant positions in my group varies with funding from year to year. Instead of emailing a full CV and research statements, please contact me when you decide to apply for the program at UNR to arrange a Zoom meeting for further consideration. 

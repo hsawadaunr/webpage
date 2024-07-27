@@ -11,12 +11,8 @@ I teach the following courses:
 <h3>PHYS 461/661 Optics & Modern Photonics</h3>
 hi
 
-
-
 <h3>PHYS 483/683 Special problem: Introduction to High Energy Density Physics and Laser Fusion</h3>
 hi
-
-
 
 <h3>PHYS 725 Laser Physics </h3>
 hig

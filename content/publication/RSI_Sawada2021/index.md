@@ -6,7 +6,7 @@ title: "2D monochromatic x-ray imaging for beam monitoring of an x-ray free elec
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-# - et al.
+- et al.
 
 # Author notes (optional)
 author_notes:
