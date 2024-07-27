@@ -55,7 +55,7 @@ social:
   link: https://orcid.org/0000-0002-7972-9894
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/hiroshi-sawada-b8045729
+  link: https://www.linkedin.com/in/hiroshi-sawada-b8045729
 
 
 #- icon: github
