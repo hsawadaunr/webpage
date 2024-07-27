@@ -38,7 +38,7 @@ url_video: ""
 A senior thesis project usually takes at least a year. For UNR undergraduate and graduate students who are interested in working with me on high energy density physics using a high-intensity short-pulse laser, contact to hsawada at unr.edu or walk in my office.
 <hr>
 
-<<<<<<< HEAD
+
 ## A. Colberg, B.S. (2024)
 Numerical simulations of Proton Radiography for High Energy Density Plasmas
 
@@ -54,23 +54,13 @@ Characterization of short-pulse laser-produced fast electrons by 3D hybrid parti
 
 <hr>
 
-
-=======
-## L. Chen, Ph.D (2023)
-Characterization of short-pulse laser-produced fast electrons by 3D hybrid particle-in-cell modeling of angularly resolved bremsstrahlung
-
-<hr>
-
->>>>>>> b06419b855affe6340c0a0ac28c917583e535715
 ## S. Buitron, B.S. (2023)
 Monte Carlo simulations of radiation shielding design for broadband x-ray radiography at Zebra Pulsed Power Laboratory
 
 <hr>
 
-<<<<<<< HEAD
 
-=======
->>>>>>> b06419b855affe6340c0a0ac28c917583e535715
+
 ## J. Trzaska, B.S. (2020)
 Demonstration of 2D Monochromatic Kα X-ray Imaging for Measurements of High-Power Femtosecond and X-ray Free Electron Lasers
 
