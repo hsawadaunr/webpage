@@ -88,4 +88,4 @@ The complete list of my publications can be found in <a href="https://scholar.go
 " target="blank"> Orcid </a> pages. 
 
 ### Research opportunities in my group 
-We welcome prospective students who are eager to learn high-energy-density physics and enjoy conducting experiments. The availability ofgraduate research assistant positions in my group varies with funding from year to year. Instead of emailing a full CV and research statements, please contact me when you decide to apply for the program at UNR to arrange a Zoom meeting for further consideration. 
+We welcome prospective students who are eager to learn high-energy-density physics and enjoy conducting experiments. The availability of graduate research assistant positions in my group varies with funding from year to year. Instead of emailing a full CV and research statements, please contact me when you decide to apply for the program at UNR to arrange a Zoom meeting for further consideration. 
