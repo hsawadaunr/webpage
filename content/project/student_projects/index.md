@@ -6,7 +6,7 @@ tags:
 - Ph.D thesis
 - MS thesis
 
-date: "2024-07-27T00:00:00Z"
+date: "2025-12-23T00:00:00Z"
 
 weight: 5
 # Optional external URL for project (replaces project detail page).
@@ -40,6 +40,7 @@ A senior thesis project usually takes at least a year (two semesters). For UNR u
 
 ## C. Middi, (2025)
 Development and Validation of an X-Ray Tube Model Using PHITS for Quasi-Monochromatic X-Ray Generation
+
 
 <hr>
 
