@@ -41,7 +41,6 @@ A senior thesis project usually takes at least a year (two semesters). For UNR u
 ## C. Middi, (2025)
 Development and Validation of an X-Ray Tube Model Using PHITS for Quasi-Monochromatic X-Ray Generation
 
-
 <hr>
 
 ## A. Colberg, B.S. (2024)
