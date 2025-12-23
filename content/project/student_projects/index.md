@@ -38,6 +38,10 @@ url_video: ""
 A senior thesis project usually takes at least a year (two semesters). For UNR undergraduate and graduate students who are interested in working with me on projects in high energy density physics and inertial confinement fusion using a high-intensity short-pulse laser, contact to hsawada at unr.edu or walk in my office.
 <hr>
 
+## C. Middi, (2025)
+Development and Validation of an X-Ray Tube Model Using PHITS for Quasi-Monochromatic X-Ray Generation
+
+<hr>
 
 ## A. Colberg, B.S. (2024)
 Numerical simulations of Proton Radiography for High Energy Density Plasmas
